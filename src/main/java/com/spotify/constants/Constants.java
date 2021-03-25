@@ -1,0 +1,5 @@
+package com.spotify.constants;
+
+public class Constants {
+    public static String AUTH_TOKEN="BQDM3klmtV1tcOPXwO_dajuo5TGHlslxsr6AuT4rDvH_KZM4vpR3ld5X8H9EujbjzM_OxO5mcZUTa8T-uMSpQQE4YsbcMfLDKqWUKnqi7K0FhTkE8VgWVtue3n933pZgND3mMrm_h0GX-wiirW8PdoFDoRtJAwZYEpN-uO3XF-I3mT5qXWFA9sZF6MoQGy0r64xU1v2rxw0JBk9EIQp6Cl4xD5vVYTDYcdWmqkyrVYR11vv3sXgai4QSKUyQfdHfk7zd3kamqfq50cLkzw9soL55jlx81mTrAXfE1fhD";
+}
